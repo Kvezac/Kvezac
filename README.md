@@ -8,4 +8,4 @@ Kvezac/Kvezac is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
                                Visitor count
-        ![Visitor Count](https://profile-counter.glitch.me/{Kvezac}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{Kvezac}/count.svg)
