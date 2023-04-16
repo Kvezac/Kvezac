@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kvezac
 - 👀 I’m interested in python
-- 🌱 I’m currently learning django
+- 🌱 I’m currently learning web
 - 💞️ I’m looking to collaborate on ...
 
 <!---
