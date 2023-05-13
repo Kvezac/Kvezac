@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Kvezac
 - 👀 I’m interested in python
 - 🌱 I’m currently learning web
-- 💞️ I’m looking to collaborate on ...
 
 <!---
 Kvezac/Kvezac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
